@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>baocun.png</file>
+        <file>bcimage.png</file>
+        <file>bg.png</file>
+        <file>Blob.png</file>
+        <file>cf.png</file>
+        <file>cjimage.png</file>
+        <file>cjmb.png</file>
+        <file>ezh.png</file>
+        <file>fs.png</file>
+        <file>gslb.png</file>
+        <file>hdh.png</file>
+        <file>hz.png</file>
+        <file>icon-test.png</file>
+        <file>image.qrc</file>
+        <file>jingyu.jpg</file>
+        <file>jx.png</file>
+        <file>jzlb.png</file>
+        <file>lt.png</file>
+        <file>mj.png</file>
+        <file>openFile.png</file>
+        <file>paizhao.png</file>
+        <file>pz.png</file>
+        <file>test.png</file>
+        <file>ty.png</file>
+        <file>tz.png</file>
+        <file>xzjx.png</file>
+        <file>y.png</file>
+        <file>yclimage.png</file>
+        <file>zzlb.png</file>
+        <file>bys.png</file>
+        <file>kys.png</file>
+    </qresource>
+</RCC>
