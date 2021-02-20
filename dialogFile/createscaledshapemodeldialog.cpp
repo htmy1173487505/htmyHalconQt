@@ -42,7 +42,6 @@ void CreateScaledShapeModelDialog::action()
     cssmDom->Metric = matt->QStringToHTuple(ui->comboBox_6->currentText());
     cssmDom->Contrast = matt->QStringToHTuple(ui->comboBox_7->currentText());
     cssmDom->MinContrast = matt->QStringToHTuple(ui->comboBox_8->currentText());
-    cssmDom->action();
 }
 
 void CreateScaledShapeModelDialog::on_comboBox_currentIndexChanged(int index)
@@ -102,6 +101,7 @@ void CreateScaledShapeModelDialog::on_comboBox_8_currentIndexChanged(int index)
 
 void CreateScaledShapeModelDialog::on_pushButton_clicked()
 {
+    cssmDom->action();
     matt->updateModelID = cssmDom->ModelID;;
     close();
 }
